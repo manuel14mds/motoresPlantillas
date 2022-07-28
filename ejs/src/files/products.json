@@ -1,0 +1,74 @@
+[
+	{
+		"name": "rteyurio",
+		"price": "112",
+		"img": "1658964428034-apple.png",
+		"id": 1
+	},
+	{
+		"name": "qwer",
+		"price": "56",
+		"img": "1658964508135-globe_planet.png",
+		"id": 2
+	},
+	{
+		"name": "ghjfgh",
+		"price": "98",
+		"img": "1658964618358-clock.png",
+		"id": 3
+	},
+	{
+		"name": "manu2",
+		"price": "1212",
+		"img": "1658964665294-note_paper.png",
+		"id": 4
+	},
+	{
+		"name": "prueba",
+		"price": "98",
+		"img": "1658965511810-bus.png",
+		"id": 5
+	},
+	{
+		"name": "prueba",
+		"price": "1212",
+		"img": "1658965585149-clock.png",
+		"id": 6
+	},
+	{
+		"name": "edrghtuyy",
+		"price": "12",
+		"img": "1658965695877-calculator.png",
+		"id": 7
+	},
+	{
+		"name": "sjdfnvklsnv",
+		"price": "1212",
+		"img": "1658965911518-globe_planet.png",
+		"id": 8
+	},
+	{
+		"name": "prueba",
+		"price": "1212",
+		"img": "1658965985411-bus.png",
+		"id": 9
+	},
+	{
+		"name": "sjdfnvklsnv",
+		"price": "12",
+		"img": "1658966010367-book.png",
+		"id": 10
+	},
+	{
+		"name": "sjdfnvklsnv",
+		"price": "1212",
+		"img": "1658966046345-bagpack.png",
+		"id": 11
+	},
+	{
+		"name": "sjdfnvklsnv",
+		"price": "1212",
+		"img": "1658966155315-clock.png",
+		"id": 12
+	}
+]

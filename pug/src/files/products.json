@@ -1,0 +1,14 @@
+[
+	{
+		"name": "mochila",
+		"price": "10",
+		"img": "1659043191383-bagpack.png",
+		"id": 1
+	},
+	{
+		"name": "regla",
+		"price": "4",
+		"img": "1659043383684-ruler.png",
+		"id": 2
+	}
+]

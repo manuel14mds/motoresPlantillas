@@ -1,0 +1,14 @@
+[
+	{
+		"name": "calculadora",
+		"price": "10",
+		"img": "1658895373605-calculator.png",
+		"id": 1
+	},
+	{
+		"name": "mochila",
+		"price": "12",
+		"img": "1659041512439-bagpack.png",
+		"id": 2
+	}
+]
